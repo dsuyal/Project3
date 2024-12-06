@@ -1,0 +1,14 @@
+127.0.0.1 - - [18/Sep/2024:15:25:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:30 +0530] "GET /project_3/ HTTP/1.1" 200 715
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:30 +0530] "GET /project_3/img/custom.png HTTP/1.1" 200 17583
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:30 +0530] "GET /project_3/img/beckground.jpg HTTP/1.1" 200 9768499
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:31 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:37 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3787
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:37 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:37 +0530] "GET /project_3/img/welcome.jpg HTTP/1.1" 200 22390
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:52 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7138
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:25:52 +0530] "GET /project_3/img/index.jpg HTTP/1.1" 200 1549592
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:43:51 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7138
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:44:08 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:44:08 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9981
+0:0:0:0:0:0:0:1 - - [18/Sep/2024:15:44:08 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784

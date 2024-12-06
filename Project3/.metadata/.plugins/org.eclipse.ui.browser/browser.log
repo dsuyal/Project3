@@ -1,0 +1,4 @@
+
+Aug 22, 2024 16:29:46.99 NEW SESSION
+Aug 22, 2024 16:29:46.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 22, 2024 16:29:50.94 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
